@@ -3,3 +3,6 @@
 leetcode practice
 
 * [ ] Array
+* [ ] HashTable
+* [ ] LinkedList
+* [ ] Graph
